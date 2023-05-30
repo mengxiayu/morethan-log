@@ -18,16 +18,16 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "freely-log",
-    description: "welcome to freely-log!",
+    title: "freely-blog",
+    description: "welcome to freely-blog!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
-  link: "https://freely-log.vercel.app",
+  link: "https://freelyblog.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "https://og-image-bivdnll0x-mengxiayu.vercel.app/", // The link to generate OG image, don't end with a slash
   seo: {
     keywords: ["Blog", "Website", "Notion"],
   },
