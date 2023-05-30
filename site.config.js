@@ -1,9 +1,9 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "🐟",
+    name: "Freely",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "dreamer",
+    role: "A whale named by Free Willy.",
     bio: "I enjoy cooking, hiking and shopping. My recent interests are watching Youtube and learning Korean.",
     email: "Not telling you",
     linkedin: "Secret",
@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `🐟's log`,
+      name: `Freely's blog`,
       href: "Empty",
     },
   ],
