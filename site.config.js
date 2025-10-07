@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "freelysfriend",
+    name: "Freely",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "dream developer",
-    bio: "I enjoy cooking, hiking and shopping. My recent interests are watching Youtube and learning Korean. Updated.",
+    bio: "Freely是一只长须鲸公仔。",
     email: "Not telling you",
     linkedin: "Secret",
     github: "Encrypted information",
